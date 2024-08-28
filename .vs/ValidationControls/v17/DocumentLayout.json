@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rajesh Narkar\\source\\repos\\ValidationControls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0650231D-B955-4E1E-B622-D22688BF37B0}|ValidationControls\\ValidationControls.csproj|c:\\users\\rajesh narkar\\source\\repos\\validationcontrols\\validationcontrols\\validationcontrols.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0650231D-B955-4E1E-B622-D22688BF37B0}|ValidationControls\\ValidationControls.csproj|solutionrelative:validationcontrols\\validationcontrols.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0650231D-B955-4E1E-B622-D22688BF37B0}|ValidationControls\\ValidationControls.csproj|c:\\users\\rajesh narkar\\source\\repos\\validationcontrols\\validationcontrols\\validationcontrols.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0650231D-B955-4E1E-B622-D22688BF37B0}|ValidationControls\\ValidationControls.csproj|solutionrelative:validationcontrols\\validationcontrols.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationControls.aspx",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\ValidationControls\\ValidationControls\\ValidationControls.aspx",
+              "RelativeDocumentMoniker": "ValidationControls\\ValidationControls.aspx",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\ValidationControls\\ValidationControls\\ValidationControls.aspx",
+              "RelativeToolTip": "ValidationControls\\ValidationControls.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T05:00:08.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationControls.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\ValidationControls\\ValidationControls\\ValidationControls.aspx.cs",
+              "RelativeDocumentMoniker": "ValidationControls\\ValidationControls.aspx.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\ValidationControls\\ValidationControls\\ValidationControls.aspx.cs",
+              "RelativeToolTip": "ValidationControls\\ValidationControls.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAWwBoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:26:05.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
